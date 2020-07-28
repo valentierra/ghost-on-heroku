@@ -9,6 +9,7 @@ themes=(
         pico
         lyra
 	liebling
+	affliction
 )
 
 for theme in "${themes[@]}"
