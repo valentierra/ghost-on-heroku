@@ -25,7 +25,12 @@
     "pico": "github:tryghost/pico",
     "lyra": "github:tryghost/lyra",
     "liebling": "github:snathjr/liebling",
-    "affliction": "github:neok/affliction"
+    "affliction": "github:neok/affliction",
+    "Mapache": "github:godofredoninja/Mapache#v3.1.1",
+    "simply": "github:godofredoninja/simply#v0.2.9",
+    "Paway": "github:godofredoninja/Paway",
+    "rimay": "github:godofredoninja/rimay#v0.0.3",
+    "kusi-doc": "github:godofredoninja/kusi-doc"
   },
   "engines": {
     "node": "10.X"

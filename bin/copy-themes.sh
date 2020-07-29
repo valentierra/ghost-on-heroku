@@ -10,6 +10,11 @@ themes=(
         lyra
 	liebling
 	affliction
+	Mapache
+	simply
+	Paway
+	rimay
+	kusi-doc
 )
 
 for theme in "${themes[@]}"
