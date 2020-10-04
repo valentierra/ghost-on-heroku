@@ -1,5 +1,6 @@
 themes=(
 	affliction
+	asgar
 	attila
 	biron
 	bleak
