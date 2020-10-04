@@ -1,20 +1,28 @@
 themes=(
-	casper
+	affliction
 	attila
-	london
-	massively
+	biron
 	bleak
+	caffeine
+	casper
+	editorial
+	fizzy
+	kusi-doc
+	liebling
+	london
+	lyra
+	Mapache
+	massively
+	material
+	mention
+	Paway
+	pico
+	rimay
+	saga
+	simply
+	storyteller
 	the-shell
 	vapor
-        pico
-        lyra
-	liebling
-	affliction
-	Mapache
-	simply
-	Paway
-	rimay
-	kusi-doc
 )
 
 for theme in "${themes[@]}"
