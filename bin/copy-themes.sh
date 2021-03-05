@@ -3,7 +3,6 @@ themes=(
 	attila
 	biron
 	bleak
-	caffeine
 	casper
 	escript
 	escript-home
