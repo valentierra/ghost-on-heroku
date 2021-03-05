@@ -6,6 +6,8 @@ themes=(
 	bleak
 	caffeine
 	casper
+	escript
+	escript-home
 	editorial
 	fizzy
 	kusi-doc
