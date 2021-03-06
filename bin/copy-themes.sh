@@ -19,7 +19,6 @@ themes=(
 	Paway
 	pico
 	rimay
-	saga
 )
 
 for theme in "${themes[@]}"

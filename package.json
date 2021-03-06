@@ -33,8 +33,7 @@
     "mysql": "^2.17.1",
     "Paway": "github:godofredoninja/Paway",
     "pico": "github:tryghost/pico",
-    "rimay": "github:godofredoninja/rimay#v0.0.3",
-    "saga": "github:Reedyn/Saga#2.0.0"
+    "rimay": "github:godofredoninja/rimay#v0.0.3"
   },
   "engines": {
     "node": "12.X"
