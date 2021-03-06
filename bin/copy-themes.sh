@@ -20,7 +20,6 @@ themes=(
 	pico
 	rimay
 	saga
-	simply
 	vapor
 )
 

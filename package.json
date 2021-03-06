@@ -35,7 +35,6 @@
     "pico": "github:tryghost/pico",
     "rimay": "github:godofredoninja/rimay#v0.0.3",
     "saga": "github:Reedyn/Saga#2.0.0",
-    "simply": "github:godofredoninja/simply#0.3.1",
     "vapor": "github:sethlilly/Vapor#v1.6.0"
   },
   "engines": {
