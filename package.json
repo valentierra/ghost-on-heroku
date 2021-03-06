@@ -32,8 +32,7 @@
     "mention": "github:vanila-io/mention-ghost-theme",
     "mysql": "^2.17.1",
     "Paway": "github:godofredoninja/Paway",
-    "pico": "github:tryghost/pico",
-    "rimay": "github:godofredoninja/rimay#v0.0.3"
+    "pico": "github:tryghost/pico"
   },
   "engines": {
     "node": "12.X"

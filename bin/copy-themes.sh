@@ -18,7 +18,6 @@ themes=(
 	mention
 	Paway
 	pico
-	rimay
 )
 
 for theme in "${themes[@]}"
