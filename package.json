@@ -29,7 +29,6 @@
     "lyra": "github:tryghost/lyra",
     "Mapache": "github:godofredoninja/Mapache#v3.1.1",
     "massively": "github:tryghost/massively#1.0.2",
-    "material": "github:creativetimofficial/material-kit-ghost",
     "mention": "github:vanila-io/mention-ghost-theme",
     "mysql": "^2.17.1",
     "Paway": "github:godofredoninja/Paway",
@@ -37,7 +36,6 @@
     "rimay": "github:godofredoninja/rimay#v0.0.3",
     "saga": "github:Reedyn/Saga#2.0.0",
     "simply": "github:godofredoninja/simply#0.2.9",
-    "storyteller": "github.com:solaymanhaider/storyteller#1.0.0",
     "the-shell": "github:mityalebedev/The-Shell#v2.0.0",
     "vapor": "github:sethlilly/Vapor#v1.6.0"
   },
@@ -89,6 +87,7 @@
     "lazysizes": "^5.2.2",
     "lodash": "^4.17.21",
     "mailcomposer": "^0.2.12",
+    "material": "npm:material-kit@^1.0.0",
     "meow": "^5.0.0",
     "mime": "^1.6.0",
     "minimist": "^1.2.5",
