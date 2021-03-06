@@ -16,8 +16,6 @@ themes=(
 	massively
 	material
 	mention
-	Paway
-	pico
 )
 
 for theme in "${themes[@]}"

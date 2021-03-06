@@ -30,9 +30,7 @@
     "Mapache": "github:godofredoninja/Mapache#v3.1.1",
     "massively": "github:tryghost/massively#1.0.2",
     "mention": "github:vanila-io/mention-ghost-theme",
-    "mysql": "^2.17.1",
-    "Paway": "github:godofredoninja/Paway",
-    "pico": "github:tryghost/pico"
+    "mysql": "^2.17.1"
   },
   "engines": {
     "node": "12.X"
