@@ -14,7 +14,6 @@ themes=(
 	lyra
 	Mapache
 	massively
-	material
 )
 
 for theme in "${themes[@]}"
