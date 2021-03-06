@@ -21,7 +21,6 @@ themes=(
 	rimay
 	saga
 	simply
-	the-shell
 	vapor
 )
 
