@@ -15,7 +15,6 @@ themes=(
 	Mapache
 	massively
 	material
-	mention
 )
 
 for theme in "${themes[@]}"
