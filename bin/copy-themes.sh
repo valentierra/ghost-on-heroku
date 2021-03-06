@@ -20,7 +20,6 @@ themes=(
 	pico
 	rimay
 	saga
-	vapor
 )
 
 for theme in "${themes[@]}"

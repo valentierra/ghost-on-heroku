@@ -34,8 +34,7 @@
     "Paway": "github:godofredoninja/Paway",
     "pico": "github:tryghost/pico",
     "rimay": "github:godofredoninja/rimay#v0.0.3",
-    "saga": "github:Reedyn/Saga#2.0.0",
-    "vapor": "github:sethlilly/Vapor#v1.6.0"
+    "saga": "github:Reedyn/Saga#2.0.0"
   },
   "engines": {
     "node": "12.X"
